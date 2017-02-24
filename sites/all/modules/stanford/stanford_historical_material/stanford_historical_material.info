@@ -1,5 +1,5 @@
-name = Historical Material
-description = Content type for document, audio, video and quotes supporting an encyclopedia entry
+name = stanford_historical_material
+description = Content type to support encyclopedia entries with document, audio, video, quotes data
 core = 7.x
 package = Stanford
 version = 7.x-1.0

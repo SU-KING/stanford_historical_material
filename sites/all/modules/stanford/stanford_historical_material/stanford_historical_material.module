@@ -1,7 +1,7 @@
 <?php
 /**
  * @file
- * Code for the Historical Material feature.
+ * Code for the stanford_historical_material feature.
  */
 
 include_once 'stanford_historical_material.features.inc';
